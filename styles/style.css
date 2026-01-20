@@ -137,29 +137,32 @@
 
 /* LOTS */
 .lots {
-    padding: 180px 50px;
+    margin-top: 180px;
+    margin-right: 20px;
+    margin-left: 20px;
 }
 
 .lots__heading {
-    margin-bottom: 27px;
-    margin-left: 40px;
     font-size: 40px;
     font-weight: 700;
+    margin-left: 40px;
     text-transform: uppercase;
 }
 
 .lots__card-list {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 25px;
     list-style: none;
-    margin-bottom: 30px;
+    margin-top: 27px;
+    display: flex;
+    justify-content: space-between;
+    gap: 25px;
 }
 
 .lots__card-list-item {
-    flex: 1 0 430px;
-    min-height: 450px;
+    flex: 1;
+    width: 334px;
+    height: 596px;
 }
+
 
 .card-link {
     display: block;
