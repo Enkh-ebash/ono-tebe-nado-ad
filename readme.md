@@ -1,1 +1,0 @@
-https://github.com/Enkh-ebash/ono-tebe-nado-ad#
