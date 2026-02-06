@@ -1,1 +1,1 @@
-https://github.com/Enkh-ebash/ono-tebe-nado-ad#
+https://github.com/Enkh-ebash/ono-tebe-nado-ad
